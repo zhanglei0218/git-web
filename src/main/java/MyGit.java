@@ -9,6 +9,8 @@ public class MyGit {
         System.out.println("算法要考试了");
         System.out.println("冲突");
         System.out.println("有一次修改");
+        System.out.println("远程库修改");
+        
         System.out.println("有23次修改");
     }
 }
