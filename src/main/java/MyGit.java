@@ -6,7 +6,6 @@
 public class MyGit {
     public static void main(String[] args) {
         System.out.println("我是你爸爸1");
-
-        System.out.println("我是user分支");
+        System.out.println("算法要考试了");
     }
 }
